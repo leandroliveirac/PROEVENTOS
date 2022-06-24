@@ -1,0 +1,9 @@
+{
+    "explorer.compactFolders": false,
+    "omnisharp.enableMsBuildLoadProjectsOnDemand": true,
+    "omnisharp.enableImportCompletion": true,
+    "omnisharp.enableEditorConfigSupport": true,
+    "omnisharp.analyzeOpenDocumentsOnly": true,
+    "omnisharp.enableAsyncCompletion": true,
+    "omnisharp.enableRoslynAnalyzers": true
+}
