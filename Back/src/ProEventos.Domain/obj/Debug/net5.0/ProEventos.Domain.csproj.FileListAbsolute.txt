@@ -10,3 +10,15 @@ D:\Workspace\PROEVENTOS\Back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.D
 D:\Workspace\PROEVENTOS\Back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.dll
 D:\Workspace\PROEVENTOS\Back\src\ProEventos.Domain\obj\Debug\net5.0\ref\ProEventos.Domain.dll
 D:\Workspace\PROEVENTOS\Back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.pdb
+D:\ws_Estudo\Projetos\PROEVENTOS\back\src\ProEventos.Domain\bin\Debug\net5.0\ProEventos.Domain.deps.json
+D:\ws_Estudo\Projetos\PROEVENTOS\back\src\ProEventos.Domain\bin\Debug\net5.0\ProEventos.Domain.dll
+D:\ws_Estudo\Projetos\PROEVENTOS\back\src\ProEventos.Domain\bin\Debug\net5.0\ref\ProEventos.Domain.dll
+D:\ws_Estudo\Projetos\PROEVENTOS\back\src\ProEventos.Domain\bin\Debug\net5.0\ProEventos.Domain.pdb
+D:\ws_Estudo\Projetos\PROEVENTOS\back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.csproj.AssemblyReference.cache
+D:\ws_Estudo\Projetos\PROEVENTOS\back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ws_Estudo\Projetos\PROEVENTOS\back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.AssemblyInfoInputs.cache
+D:\ws_Estudo\Projetos\PROEVENTOS\back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.AssemblyInfo.cs
+D:\ws_Estudo\Projetos\PROEVENTOS\back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.csproj.CoreCompileInputs.cache
+D:\ws_Estudo\Projetos\PROEVENTOS\back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.dll
+D:\ws_Estudo\Projetos\PROEVENTOS\back\src\ProEventos.Domain\obj\Debug\net5.0\ref\ProEventos.Domain.dll
+D:\ws_Estudo\Projetos\PROEVENTOS\back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.pdb

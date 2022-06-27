@@ -32,6 +32,7 @@ namespace ProEventos.API
             services.AddControllers()
                     .AddNewtonsoftJson(x => x.SerializerSettings.ReferenceLoopHandling = 
                             Newtonsoft.Json.ReferenceLoopHandling.Ignore);
+            services.AddCors();
 
             #region Injerção de Depedencia
             services.AddScoped<IEventoServiceApp, EventoServiceApp>();
@@ -61,6 +62,10 @@ namespace ProEventos.API
             app.UseRouting();
 
             app.UseAuthorization();
+
+            app.UseCors(x => x.AllowAnyHeader()
+                                .AllowAnyMethod()
+                                .AllowAnyOrigin());
 
             app.UseEndpoints(endpoints =>
             {

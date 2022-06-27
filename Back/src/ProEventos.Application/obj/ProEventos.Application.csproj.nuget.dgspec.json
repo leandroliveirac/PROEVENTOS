@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Workspace\\PROEVENTOS\\Back\\src\\ProEventos.Application\\ProEventos.Application.csproj": {}
+    "D:\\ws_Estudo\\Projetos\\PROEVENTOS\\back\\src\\ProEventos.Application\\ProEventos.Application.csproj": {}
   },
   "projects": {
-    "D:\\Workspace\\PROEVENTOS\\Back\\src\\ProEventos.Application\\ProEventos.Application.csproj": {
+    "D:\\ws_Estudo\\Projetos\\PROEVENTOS\\back\\src\\ProEventos.Application\\ProEventos.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Workspace\\PROEVENTOS\\Back\\src\\ProEventos.Application\\ProEventos.Application.csproj",
+        "projectUniqueName": "D:\\ws_Estudo\\Projetos\\PROEVENTOS\\back\\src\\ProEventos.Application\\ProEventos.Application.csproj",
         "projectName": "ProEventos.Application",
-        "projectPath": "D:\\Workspace\\PROEVENTOS\\Back\\src\\ProEventos.Application\\ProEventos.Application.csproj",
-        "packagesPath": "C:\\Users\\PC_Casa\\.nuget\\packages\\",
-        "outputPath": "D:\\Workspace\\PROEVENTOS\\Back\\src\\ProEventos.Application\\obj\\",
+        "projectPath": "D:\\ws_Estudo\\Projetos\\PROEVENTOS\\back\\src\\ProEventos.Application\\ProEventos.Application.csproj",
+        "packagesPath": "C:\\Users\\012095480\\.nuget\\packages\\",
+        "outputPath": "D:\\ws_Estudo\\Projetos\\PROEVENTOS\\back\\src\\ProEventos.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\PC_Casa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\012095480\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,11 +32,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Workspace\\PROEVENTOS\\Back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj": {
-                "projectPath": "D:\\Workspace\\PROEVENTOS\\Back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj"
+              "D:\\ws_Estudo\\Projetos\\PROEVENTOS\\back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj": {
+                "projectPath": "D:\\ws_Estudo\\Projetos\\PROEVENTOS\\back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj"
               },
-              "D:\\Workspace\\PROEVENTOS\\Back\\src\\ProEventos.Infra.Data\\ProEventos.Infra.Data.csproj": {
-                "projectPath": "D:\\Workspace\\PROEVENTOS\\Back\\src\\ProEventos.Infra.Data\\ProEventos.Infra.Data.csproj"
+              "D:\\ws_Estudo\\Projetos\\PROEVENTOS\\back\\src\\ProEventos.Infra.Data\\ProEventos.Infra.Data.csproj": {
+                "projectPath": "D:\\ws_Estudo\\Projetos\\PROEVENTOS\\back\\src\\ProEventos.Infra.Data\\ProEventos.Infra.Data.csproj"
               }
             }
           }
@@ -69,20 +69,20 @@
         }
       }
     },
-    "D:\\Workspace\\PROEVENTOS\\Back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj": {
+    "D:\\ws_Estudo\\Projetos\\PROEVENTOS\\back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Workspace\\PROEVENTOS\\Back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj",
+        "projectUniqueName": "D:\\ws_Estudo\\Projetos\\PROEVENTOS\\back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj",
         "projectName": "ProEventos.Domain",
-        "projectPath": "D:\\Workspace\\PROEVENTOS\\Back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj",
-        "packagesPath": "C:\\Users\\PC_Casa\\.nuget\\packages\\",
-        "outputPath": "D:\\Workspace\\PROEVENTOS\\Back\\src\\ProEventos.Domain\\obj\\",
+        "projectPath": "D:\\ws_Estudo\\Projetos\\PROEVENTOS\\back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj",
+        "packagesPath": "C:\\Users\\012095480\\.nuget\\packages\\",
+        "outputPath": "D:\\ws_Estudo\\Projetos\\PROEVENTOS\\back\\src\\ProEventos.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\PC_Casa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\012095480\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -127,20 +127,20 @@
         }
       }
     },
-    "D:\\Workspace\\PROEVENTOS\\Back\\src\\ProEventos.Infra.Data\\ProEventos.Infra.Data.csproj": {
+    "D:\\ws_Estudo\\Projetos\\PROEVENTOS\\back\\src\\ProEventos.Infra.Data\\ProEventos.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Workspace\\PROEVENTOS\\Back\\src\\ProEventos.Infra.Data\\ProEventos.Infra.Data.csproj",
+        "projectUniqueName": "D:\\ws_Estudo\\Projetos\\PROEVENTOS\\back\\src\\ProEventos.Infra.Data\\ProEventos.Infra.Data.csproj",
         "projectName": "ProEventos.Infra.Data",
-        "projectPath": "D:\\Workspace\\PROEVENTOS\\Back\\src\\ProEventos.Infra.Data\\ProEventos.Infra.Data.csproj",
-        "packagesPath": "C:\\Users\\PC_Casa\\.nuget\\packages\\",
-        "outputPath": "D:\\Workspace\\PROEVENTOS\\Back\\src\\ProEventos.Infra.Data\\obj\\",
+        "projectPath": "D:\\ws_Estudo\\Projetos\\PROEVENTOS\\back\\src\\ProEventos.Infra.Data\\ProEventos.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\012095480\\.nuget\\packages\\",
+        "outputPath": "D:\\ws_Estudo\\Projetos\\PROEVENTOS\\back\\src\\ProEventos.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\PC_Casa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\012095480\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -155,8 +155,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Workspace\\PROEVENTOS\\Back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj": {
-                "projectPath": "D:\\Workspace\\PROEVENTOS\\Back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj"
+              "D:\\ws_Estudo\\Projetos\\PROEVENTOS\\back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj": {
+                "projectPath": "D:\\ws_Estudo\\Projetos\\PROEVENTOS\\back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj"
               }
             }
           }
