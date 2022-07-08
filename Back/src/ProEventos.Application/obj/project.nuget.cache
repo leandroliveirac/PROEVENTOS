@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QRWjRvhPTJIk3MGDJa5vhQW8jEW0ox8tiwafbgQejEwi6b827Xgkjw1qjAH6hK7+AHSf9aY5HZWLniXzlxhu8A==",
+  "dgSpecHash": "yZQB6e7xsF5TIPtuYW+d1Osjo390OdaxPCrq2p5BlI1y/zXhVHe17yH3OypHpLsFET/Ls5+JtaVlwqaxRvCH4A==",
   "success": true,
-  "projectFilePath": "D:\\ws_Estudo\\Projetos\\PROEVENTOS\\back\\src\\ProEventos.Application\\ProEventos.Application.csproj",
+  "projectFilePath": "D:\\ws_Estudo\\Projetos\\PROEVENTOS\\Back\\src\\ProEventos.Application\\ProEventos.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\012095480\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\012095480\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
