@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = ProEventos.Infra.Data
-build_property.ProjectDir = D:\ws_Estudo\Projetos\PROEVENTOS\back\src\ProEventos.Infra.Data\
+build_property.ProjectDir = D:\Workspace\PROEVENTOS\Back\src\ProEventos.Infra.Data\
